@@ -4,6 +4,15 @@ out/
 !**/src/test/**/out/
 .kotlin
 
+src/FilaSimples.java
+src/ListaDinamica.java
+src/ListaOperacoes.java
+src/ListaSimples.java
+src/Main.java
+src/MainFila.java
+src/MainListaDinamica.java
+
+
 ### Eclipse ###
 .apt_generated
 .classpath
